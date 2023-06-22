@@ -11,5 +11,5 @@ Main sources:
 - https://www.britishcouncil.org/
 - https://imperialtechforesight.com/
 
-See file [here](https://embed.kumu.io/bec81912c70096deac4e8adc2d2db882). 
+See the map on kumu [here](https://embed.kumu.io/bec81912c70096deac4e8adc2d2db882). 
 
